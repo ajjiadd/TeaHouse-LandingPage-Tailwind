@@ -5,6 +5,7 @@
 TeaHouse-LandingPage-Tailwind is a modern and responsive landing page design for a tea house, built using Tailwind CSS. This project aims to provide a visually appealing and user-friendly interface for tea enthusiasts to explore and learn about different types of tea.
 
 **Web View**
+--------------
 ![Website View](https://github.com/ajjiadd/TeaHouse-LandingPage-Tailwind/raw/main/images/SS1.png?raw=true)
 
 ![Website View](https://github.com/ajjiadd/TeaHouse-LandingPage-Tailwind/raw/main/images/SS2.png?raw=true)
