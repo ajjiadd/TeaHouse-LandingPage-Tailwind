@@ -8,7 +8,6 @@ TeaHouse-LandingPage-Tailwind is a modern and responsive landing page design for
 --------------
 ![Website View](https://github.com/ajjiadd/TeaHouse-LandingPage-Tailwind/raw/main/images/SS1.png?raw=true)
 
-![Website View](https://github.com/ajjiadd/TeaHouse-LandingPage-Tailwind/raw/main/images/SS2.png?raw=true)
 
 ## Features
 
